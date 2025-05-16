@@ -1,0 +1,41 @@
+order_id,customer_id,order_date,product_id,product_name,category,price,quantity,weight,discount,shipping_cost,payment_method,delivery_status,customer_city,customer_state,customer_country,return_requested,review_score,days_to_deliver
+1001,C101,2023-01-15,P001,Smartphone X,Electronics,599.99,1,0.5kg,0.1,5.99,Credit Card,Delivered,New York,NY,USA,0,5.0,3.0
+1002,C102,2023-01-16,P002,Laptop Pro,Electronics,1299.99,1,2.2kg,0.15,12.99,paypal,Delivered,los angeles,CA,USA,1,4.0,5.0
+1003,C103,2023-01-17,P003,Wireless Earbuds,Electronics,79.99,2,0.1kg,0.0,,Credit Card,Shipped,Chicago,IL,USA,0,,
+1004,C104,2023-01-18,P004,Smart Watch,Electronics,199.99,1,0.3kg,0.05,4.99,debit,Delivered,Houston,TX,USA,0,5.0,4.0
+1005,C105,2023-01-19,P005,Tablet Mini,Electronics,299.99,1,0.7kg,,6.99,credit,Processing,PHOENIX,AZ,USA,1,2.0,
+1006,C106,2023-01-20,P006,Bluetooth Speaker,Electronics,59.99,3,1.1lbs,0.0,8.99,PayPal,Delivered,Philadelphia,PA,USA,0,4.0,6.0
+1007,C107,2023-01-21,P007,Fitness Tracker,Electronics,49.99,1,0.05kg,0.1,3.49,Debit Card,Delivered,San Antonio,TX,USA,0,5.0,3.0
+1008,C108,2023-01-22,P008,4K TV,Electronics,899.99,1,15.4kg,0.25,,Credit Card,Shipped,San Diego,CA,USA,0,,
+1009,C109,2023-01-23,P009,Gaming Console,Electronics,499.99,1,3.5kg,,15.99,Credit Card,Processing,Dallas,TX,USA,1,3.0,
+1010,C110,2023-01-24,P010,DSLR Camera,Electronics,799.99,1,1.2kg,0.0,12.99,PayPal,Delivered,dallas,CA,USA,0,5.0,5.0
+1011,C111,2023-01-25,P011,Action Camera,Electronics,199.99,2,0.3kg,0.15,6.99,Credit Card,Shipped,Austin,TX,USA,0,4.0,4.0
+1012,C112,2023-01-26,P012,External SSD,Electronics,149.99,1,0.1kg,0.0,4.99,Debit Card,delivered,Jacksonville,FL,USA,0,5.0,3.0
+1013,C113,2023-01-27,P013,Wireless Mouse,Electronics,29.99,3,0.2kg,,,PayPal,processing,Fort Worth,TX,U.S.A,1,1.0,
+1014,C114,2023-01-28,P014,Mechanical Keyboard,Electronics,99.99,1,1.1kg,0.1,8.99,Credit Card,Delivered,Columbus,OH,United States,0,4.0,4.0
+1015,C115,2023-01-29,P015,"Monitor 27""",Electronics,249.99,1,5.5kg,,14.99,Debit Card,Shipped,Charlotte,NC,USA,0,3.0,
+1016,C116,2023-01-30,P016,Printer,Electronics,179.99,1,8.8kg,0.2,19.99,Credit Card,Processing,San Francisco,CA,USA,0,5.0,
+1017,C117,2023-01-31,P017,Projector,Electronics,349.99,1,3.3kg,0.1,12.99,PayPal,Delivered,Indianapolis,IN,USA,0,4.0,5.0
+1018,C118,2023-02-01,P018,Smart Bulb,Smart Home,29.99,4,0.2kg,0.0,3.99,Debit Card,Delivered,Seattle,WA,USA,0,5.0,3.0
+1019,C119,2023-02-02,P019,Robot Vacuum,Smart Home,299.99,1,4.4kg,,,Credit Card,Shipped,Denver,CO,USA,0,4.0,
+1020,C120,2023-02-03,P020,Air Purifier,Smart Home,199.99,1,5.5kg,0.05,12.99,PayPal,Processing,Washington,DC,USA,0,5.0,
+1021,C101,2023-02-04,P001,Smartphone X,Electronics,599.99,1,0.5kg,0.1,5.99,Credit Card,Delivered,N.Y.,NY,USA,0,5.0,3.0
+1022,C122,2023-02-05,P022,Docking Station,Electronics,89.99,1,0.4kg,0.0,4.99,debit card,Delivered,Boston,MA,USA,0,4.0,4.0
+1023,C123,2023-02-06,P023,Webcam,Electronics,69.99,1,0.2kg,,,PayPal,Shipped,El Paso,TX,USA,0,3.0,
+1024,C124,2023-02-07,P024,Microphone,Electronics,129.99,1,0.5kg,0.1,5.99,Credit Card,Processing,Nashville,TN,USA,0,5.0,
+1025,C125,2023-02-08,P025,Graphics Tablet,Electronics,89.99,1,0.6kg,,4.99,Debit Card,Delivered,Detroit,MI,USA,0,4.0,5.0
+1026,C126,2023-02-09,P026,E-reader,Electronics,119.99,1,0.3kg,0.15,,PayPal,Delivered,Portland,OR,USA,0,5.0,4.0
+1027,C127,2023-02-10,P027,Smart Plug,Smart Home,24.99,1,0.1kg,0.0,2.99,Credit Card,shipped,Memphis,TN,USA,0,4.0,
+1028,C128,2023-02-11,P028,NAS Drive,Electronics,299.99,1,1.8kg,,,Debit Card,processing,Oklahoma City,OK,USA,0,3.0,
+1029,C129,2023-02-12,P029,VR Headset,Electronics,349.99,1,0.7kg,0.05,8.99,PayPal,Delivered,Las Vegas,NV,USA,0,5.0,4.0
+1030,C130,2023-02-13,P030,Drone,Electronics,499.99,1,1.2kg,,12.99,Credit Card,Delivered,Louisville,KY,USA,0,4.0,3.0
+1028,C128,2023-02-11,P028,NAS Drive,Electronics,299.99,1,1.8kg,,,Debit Card,processing,Oklahoma City,OK,USA,0,3.0,
+1016,C116,2023-01-30,P016,Printer,Electronics,179.99,1,8.8kg,0.2,19.99,Credit Card,Processing,San Francisco,CA,USA,0,5.0,
+1024,C124,2023-02-07,P024,Microphone,Electronics,129.99,1,0.5kg,0.1,5.99,Credit Card,Processing,Nashville,TN,USA,0,5.0,
+1018,C118,2023-02-01,P018,Smart Bulb,Smart Home,29.99,4,0.2kg,0.0,3.99,Debit Card,Delivered,Seattle,WA,USA,0,5.0,3.0
+1009,C109,2023-01-23,P009,Gaming Console,Electronics,499.99,1,3.5kg,,15.99,Credit Card,Processing,Dallas,TX,USA,1,3.0,
+1007,C107,2023-01-21,P007,Fitness Tracker,Electronics,59.99,1,0.05kg,0.1,3.49,Debit Card,Delivered,San Antonio,TX,USA,0,5.0,3.0
+1028,C128,2023-02-11,P028,NAS Drive,Electronics,299.99,2,1.8kg,,,Debit Card,Processing,Oklahoma City,OK,USA,0,3.0,
+2006,C106,2023-01-20,P006,Bluetooth Speaker,Electronics,59.99,3,1.1lbs,0.0,8.99,PayPal,Delivered,Philadelphia,PA,USA,0,4.0,6.0
+1013,C113,2023-01-27,P013,Wireless Mouse,Electronics,29.99,3,0.2kg,,,PayPal,Delivered,Fort Worth,TX,U.S.A,1,1.0,
+1025,C125,2023-02-08,P025,Graphics Tablet,Electronics,99.99,1,0.6kg,,4.99,PayPal,Delivered,Detroit,MI,USA,0,4.0,5.0
